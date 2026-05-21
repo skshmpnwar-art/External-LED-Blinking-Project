@@ -9,7 +9,8 @@ A simple and foundational project demonstrating how to connect and control an ex
 *(Replace the links below with the actual paths to your images)*
 
 **Finished Project:**
-<img width="1764" height="1323" alt="image" src="https://github.com/user-attachments/assets/af8ca692-3252-4f89-b9d7-981bdbf1b457" />
+<img width="2268" height="4032" alt="IMG_6393" src="https://github.com/user-attachments/assets/22524a6f-5a12-4339-9a40-00a0cc939a52" />
+
 
 
 **Circuit Diagram:**
