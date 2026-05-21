@@ -9,10 +9,11 @@ A simple and foundational project demonstrating how to connect and control an ex
 *(Replace the links below with the actual paths to your images)*
 
 **Finished Project:**
-![Finished Project Image](docs/project_image.jpg)
+<img width="1764" height="1323" alt="image" src="https://github.com/user-attachments/assets/af8ca692-3252-4f89-b9d7-981bdbf1b457" />
+
 
 **Circuit Diagram:**
-![Circuit Diagram](docs/circuit_diagram.png)
+<img width="1764" height="1323" alt="image" src="https://github.com/user-attachments/assets/28a34e91-bf1a-4f4a-b0bf-47490e99ce32" />
 
 ## 🛠️ Components Required
 
@@ -30,22 +31,6 @@ A simple and foundational project demonstrating how to connect and control an ex
 3. **Power (Signal):** Connect the other end of the resistor to **Digital Pin 13** on the Arduino using a jumper wire.
 4. **Ground:** Connect the **Cathode** (shorter leg) of the LED directly to one of the **GND** pins on the Arduino using another jumper wire.
 
-## 💻 Arduino Code
 
-Copy and paste the following code into your Arduino IDE:
 
-```cpp
-// Define the pin where the LED is connected
-const int ledPin = 13; 
 
-void setup() {
-  // Initialize the digital pin as an output
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(ledPin, HIGH);  // Turn the LED on (HIGH is the voltage level)
-  delay(1000);                 // Wait for a second (1000 milliseconds)
-  digitalWrite(ledPin, LOW);   // Turn the LED off by making the voltage LOW
-  delay(1000);                 // Wait for a second
-}
